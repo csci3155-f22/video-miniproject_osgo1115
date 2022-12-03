@@ -3,14 +3,13 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Implementing Promise uising higher order functions
 
 ## Description
 
 TOD: Replace this with at least a few paragraphs describing your project.
 ## Repository Organization
 
-TODO: Replace this with a description of the organization of your repository.
 
 ## Building and Testing Instructions
 
