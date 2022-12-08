@@ -7,7 +7,8 @@ See [instructions.md](instructions.md) for submission instructions.
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
+Reviewing Higher order functions by implementing the Promise class in `Typescript`. I also worked on a side priject `sudokusolver`, which utilies the  `MyPromise` class that I implemented.
+
 ## Repository Organization
 
 
