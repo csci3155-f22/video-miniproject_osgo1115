@@ -26,5 +26,5 @@ TODO: Update the following links and remove this line.
 
 - YouTube: https://youtu.be/TODO.
 - Script: https://github.com/csci3155-f22/video-miniproject_osgo1115/blob/main/script.md
-- Recording: [recording.mp4](recording.mp4).
+- Recording: https://drive.google.com/file/d/1TaYxt3ZeywSYUUq2C-39hyAcE8d8qg5_/view?usp=sharing
 
