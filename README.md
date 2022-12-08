@@ -14,7 +14,10 @@ TOD: Replace this with at least a few paragraphs describing your project.
 ## Building and Testing Instructions
 
 To start the sudokusolver in dev mode, enter the `sudokusolver` directory and run `npm install`, which will install the dependencies.
-After that, run `npm start`, which will start the local development server at http://localhost:3000
+After that, run `npm start`, which will start the local development server at http://localhost:3000.
+
+### Testing `MyPromise` class
+go to the root directory and run `npm install`, which will install `jest` testing library. After that, run `npm test`.
 
 ## Presentation
 
