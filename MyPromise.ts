@@ -230,4 +230,4 @@ class MyPromise<T> implements MyPromiseInterface<T> {
 //   .then((t: any) => console.log(t))
 //   .catch((e: any) => console.log(e));
 
-export default MyPromise;
+module.exports = MyPromise;
