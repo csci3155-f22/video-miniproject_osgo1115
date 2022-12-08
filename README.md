@@ -13,7 +13,8 @@ TOD: Replace this with at least a few paragraphs describing your project.
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+To start the sudokusolver in dev mode, enter the `sudokusolver` directory and run `npm install`, which will install the dependencies.
+After that, run `npm start`, which will start the local development server at http://localhost:3000
 
 ## Presentation
 
