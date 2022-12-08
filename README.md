@@ -26,4 +26,4 @@ TODO: Update the following links and remove this line.
 - YouTube: https://youtu.be/TODO.
 - Script: https://github.com/csci3155-f22/video-miniproject_osgo1115/blob/main/script.md
 - Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+
