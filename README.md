@@ -3,24 +3,28 @@
 
 See [instructions.md](instructions.md) for submission instructions.
 
-# TODO: Replace this with Your Project Title
+# Implementing Promise uising higher order functions
 
 ## Description
 
-TOD: Replace this with at least a few paragraphs describing your project.
-## Repository Organization
+Reviewing Higher order functions by implementing the Promise class in `Typescript`. I also worked on a side priject `sudokusolver`, which utilies the  `MyPromise` class that I implemented.
 
-TODO: Replace this with a description of the organization of your repository.
+
+
 
 ## Building and Testing Instructions
 
-TODO: Replace with building and testing instructions. Please minimize the number of dependencies and as simple and platform-independent as possible. Consider, for example, using [Docker](https://www.docker.com/).
+To start the sudokusolver in dev mode, enter the `sudokusolver` directory and run `npm install`, which will install the dependencies.
+After that, run `npm start`, which will start the local development server at http://localhost:3000.
+
+### Testing `MyPromise` class
+go to the root directory and run `npm install`, which will install `jest` testing library. After that, run `npm test`.
 
 ## Presentation
 
 TODO: Update the following links and remove this line.
 
-- YouTube: https://youtu.be/TODO.
-- Script: [script.md](script.md) or [script.pdf](script.pdf).
-- Recording: [recording.mp4](recording.mp4).
-- Slides (if you use them in your recording): [slides.pdf](slides.pdf) and slide sources (e.g., [slides.pptx](slides.pptx) or [slides.key](slides.key)).
+- YouTube: https://youtu.be/A00Kocuhp-o
+- Script: https://github.com/csci3155-f22/video-miniproject_osgo1115/blob/main/script.md
+- Recording: https://drive.google.com/file/d/1TaYxt3ZeywSYUUq2C-39hyAcE8d8qg5_/view?usp=sharing
+
